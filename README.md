@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://abdulbasit.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-E23636?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
-  <a href="https://linkedin.com/in/abdulbasit1435"><img src="https://img.shields.io/badge/LINKEDIN-0B4F6C?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+  <a href="https://linkedin.com/in/abdul-basit-aa7a95262"><img src="https://img.shields.io/badge/LINKEDIN-0B4F6C?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="https://github.com/abdulbasit1435"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=E23636" height="35"/></a>
 </p>
 
