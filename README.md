@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="assets/profile_square.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #E23636; box-shadow: 0px 0px 25px rgba(226, 54, 54, 0.6);" alt="Abdul Basit" />
+<img src="https://raw.githubusercontent.com/abdulbasit1435/abdulbasit1435/main/assets/profile_square.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #E23636; box-shadow: 0px 0px 25px rgba(226, 54, 54, 0.6);" alt="Abdul Basit" />
 
 <br><br>
 
