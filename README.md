@@ -12,7 +12,7 @@
 # 🕷️ A B D U L &nbsp; B A S I T 🕷️
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=E23636&center=true&vCenter=true&width=800&height=60&lines=DevOps+Engineer+%26+Full-Stack+Developer;Building+Production-Grade+Systems;CI%2FCD+Pipelines+%26+Cloud+Automation;100%25+CWV.+Zero+Downtime." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=E23636&center=true&vCenter=true&width=800&height=60&lines=DevOps+Engineer;AWS+Cloud+Practitioner;CI%2FCD+Pipelines+%26+Automation;Docker+%26+Kubernetes+Orchestration." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -48,10 +48,10 @@ I believe in continuous learning, problem-solving, and collaboration. My goal is
 ## 🌐 WHAT I DO 🌐
 
 <p align="center">
-<b>⚙️ DevOps Engineering & Cloud Infrastructure</b><br>
-Architecting CI/CD pipelines, containerizing services with Docker, orchestrating clusters with Kubernetes, and managing cloud deployments. Ensuring high availability, security, zero downtime, and seamless automated releases.<br><br>
-<b>💻 Full-Stack Development & AI Systems</b><br>
-Building responsive, performant web applications with Next.js, React, Node.js, and modern databases. Integrating AI Assistants and LLMs to create intelligent, automated digital experiences.
+<b>☁️ AWS Cloud Infrastructure & DevOps</b><br>
+Architecting cloud solutions on AWS, designing CI/CD pipelines, containerizing applications with Docker, orchestrating clusters with Kubernetes, and automating infrastructure with Terraform & Linux.<br><br>
+<b>⚙️ Automation & Delivery</b><br>
+Automating deployment workflows, managing containerized services, enforcing security practices, and ensuring reliable, high-availability zero-downtime releases.
 </p>
 
 <br>
@@ -61,10 +61,10 @@ Building responsive, performant web applications with Next.js, React, Node.js, a
 ## ⚡ HOW I WORK ⚡
 
 <p align="center">
-<b>🚀 Performance-First</b> — Every application is built with 100% Core Web Vitals (CWV) in mind, ensuring lightning-fast load times.<br>
-<b>🌩️ Scalable Architecture</b> — Designing systems that handle growth effortlessly using cloud-native microservices and containerization.<br>
-<b>🧠 AI-Driven Engineering</b> — Leveraging AI tools, LLMs, and AI Assistants to build smarter features into products.<br>
-<b>⚙️ Automation over Toil</b> — Automating deployments, testing, and infrastructure provisioning to reduce manual errors and save time.
+<b>🚀 Cloud-First</b> — Designing systems that scale effortlessly using AWS Cloud services and microservices.<br>
+<b>🌩️ Scalable Infrastructure</b> — Building reliable containerized environments with Docker and Kubernetes.<br>
+<b>🧠 Continuous Learning</b> — Staying updated with modern AWS Cloud architecture and DevOps practices.<br>
+<b>⚙️ Automation over Toil</b> — Automating deployments, CI/CD pipelines, and infrastructure provisioning to eliminate manual errors.
 </p>
 
 <br>
@@ -74,15 +74,11 @@ Building responsive, performant web applications with Next.js, React, Node.js, a
 ## 🏙️ EXPERIENCE & PROJECTS 🏙️
 
 <p align="center">
-<b>DevOps Engineer / Full Stack Developer</b><br>
-Designing and optimizing CI/CD pipelines (GitHub Actions) • Managing containerized applications (Docker/Kubernetes) • End-to-end web application development (Next.js/React)
+<b>DevOps Engineer</b><br>
+Designing and optimizing CI/CD pipelines (GitHub Actions) • Managing containerized applications (Docker/Kubernetes) • AWS Cloud Infrastructure & Automation
 <br><br>
-<b>Featured Projects & Work:</b><br>
-🏠 <b>Smart Hostel Management System with AI Assistant</b> — Final Year Project (Next.js, Python, AI Assistant, DevOps, Docker)<br>
-🎓 <b>CodeOps Internship Portal</b> — EdTech Platform with RBAC (Next.js, MongoDB)<br>
-🛍️ <b>Stranger Things Store</b> — Custom Shopify Storefront (Shopify, TS)<br>
-🤖 <b>My Personal Jarvis</b> — AI Assistant / Agent (AI Integrations, Python)<br>
-📹 <b>Fall Detection DL</b> — Computer Vision & AIOps (Deep Learning, Python, CV)<br>
+<b>Featured Project:</b><br>
+🏠 <b>Smart Hostel Management System with AI Assistant</b> — Final Year Project (AI Assistant Integration, Cloud & DevOps, Docker)
 </p>
 
 <br>
@@ -92,11 +88,7 @@ Designing and optimizing CI/CD pipelines (GitHub Actions) • Managing container
 ## 💥 THE ARSENAL 💥
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,bash,terraform" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,prisma,py,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,bash,terraform,git" />
 </p>
 
 <br><br>
